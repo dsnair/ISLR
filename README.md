@@ -2,11 +2,11 @@
 
 ## Project Summary
 
-Do the labs from '[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)' book in Python. The labs are done in R in the book. The book is available for free download on the author's [website](http://www-bcf.usc.edu/~gareth/ISL/index.html) along with slides, video tutorials, and some datasets.
+Do the labs from '[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)' book in Python. (The labs are done in R in the book.) The book is available for free download on the author's [website](http://www-bcf.usc.edu/~gareth/ISL/index.html) along with slides, video tutorials, and some datasets.
 
 ## Data
 
-The labs require the datasets listed below. Some of the datasets are missing on the author's website. Although I was able to accumulate most of the missing datasets, `OJ` and `Portfolio` are still missing.
+The labs require the datasets listed below. These datasets are available on the [CRAN GitHub repo](https://github.com/cran/ISLR/tree/master/data).
 
 * `Auto`: Gas mileage, horsepower, and other information for cars.
 * `Boston`: Housing values and other information about Boston suburbs.
