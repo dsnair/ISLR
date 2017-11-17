@@ -26,8 +26,7 @@ The labs require the datasets listed below. These datasets are available on the 
 
 ## Requirements
 
-1. Pandas
-* Sklearn
+Listed in `requirements.txt`.
 
 ## Work Summary
 
