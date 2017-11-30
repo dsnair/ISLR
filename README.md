@@ -26,12 +26,19 @@ The labs require the datasets listed below. These datasets are available on the 
 
 ## Requirements
 
-Listed in `requirements.txt`.
+```shell
+$ pip install -r requirements.txt
+```
 
 ## Work Summary
 
-1. Chapter 4: Classification
-  * Logistic Regression
-  * Linear Discriminant Analysis
-  * Quadratic Discriminant Analysis
-  * KNN
+3. Regression
+  * Simple Linear Regression  
+  ~~* Multiple Linear Regression~~  
+  ~~* Non-linear Transformation of Features~~   
+  ~~* Qualitative Features~~
+4. Classification
+  * Logistic Regression  
+  ~~* Linear Discriminant Analysis~~  
+  ~~* Quadratic Discriminant Analysis~~  
+  ~~* KNN~~
