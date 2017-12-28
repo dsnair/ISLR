@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-Do the labs from '[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)' book in Python. (The labs are done in R in the book.) The book is available for free download on the author's [website](http://www-bcf.usc.edu/~gareth/ISL/index.html) along with slides, video tutorials, and some datasets.
+Do the labs from '[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)' book, in Python. (The labs are done in R in the book.) The book is available for free download on the author's [website](http://www-bcf.usc.edu/~gareth/ISL/index.html) along with slides, video tutorials, and some datasets.
 
 ## Data
 
@@ -32,13 +32,21 @@ $ pip install -r requirements.txt
 
 ## Work Summary
 
-3. Regression
+3 Regression:  
   * Simple Linear Regression  
-  ~~* Multiple Linear Regression~~  
+  * Multiple Linear Regression  
   ~~* Non-linear Transformation of Features~~   
-  ~~* Qualitative Features~~
-4. Classification
+  ~~* Qualitative Features~~  
+
+4 Classification:  
   * Logistic Regression  
   ~~* Linear Discriminant Analysis~~  
   ~~* Quadratic Discriminant Analysis~~  
-  ~~* KNN~~
+  * K-Nearest Neighbors
+
+5 Resampling Methods:  
+6 Linear Model Selection and Regularization:  
+7 Moving Beyond Linearity:  
+8 Tree-Based Methods:  
+9 Support Vector Machines:  
+10 Unsupervised Learning:
