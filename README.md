@@ -33,13 +33,22 @@ $ pip install -r requirements.txt
 ## Work Summary
 
 3 Regression:  
-  * Simple Linear Regression  
-  * Multiple Linear Regression  
-  ~~* Non-linear Transformation of Features~~   
-  ~~* Qualitative Features~~  
+  * Simple Linear Regression:
+    * Coefficient of Determination
+    * Residual Plot
+  * Multiple Linear Regression:
+    * Non-linearity
+    * Heteroscedasticity
+    * Leverage Statistic
+    * Studentized Residuals
+    * Correlation Heatmap
 
 4 Classification:  
-  * Logistic Regression  
+  * Logistic Regression:
+      * Confusion Matrix
+      * Sensitivity
+      * Precision
+      * F1 score  
   ~~* Linear Discriminant Analysis~~  
   ~~* Quadratic Discriminant Analysis~~  
   * K-Nearest Neighbors
