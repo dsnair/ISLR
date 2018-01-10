@@ -42,6 +42,7 @@ $ pip install -r requirements.txt
     * Leverage Statistic
     * Studentized Residuals
     * Correlation Heatmap
+    * Variance Inflation Factor (VIF)
 
 4 Classification:  
   * Logistic Regression:
