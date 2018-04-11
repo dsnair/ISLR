@@ -50,13 +50,24 @@ $ pip install -r requirements.txt
       * Sensitivity
       * Precision
       * F1 score  
-  ~~* Linear Discriminant Analysis~~  
+  ~~* Linear Discriminant Analysis~~   
   ~~* Quadratic Discriminant Analysis~~  
-  * K-Nearest Neighbors
+  * K-Nearest Neighbors (KNN)
 
-5 Resampling Methods:  
+5 Resampling Methods:
+  ~~* Validation Set~~  
+  ~~* Leave-One-Out Cross-Validation~~  
+  ~~* k-fold Cross-Validation~~
+  ~~* Bootstrap~~  
+
 6 Linear Model Selection and Regularization:  
 7 Moving Beyond Linearity:  
 8 Tree-Based Methods:  
 9 Support Vector Machines:  
+
 10 Unsupervised Learning:
+  * Principal Component Analysis (PCA)
+  ~~* K-Means Clustering~~
+  ~~* Hierarchical Clustering~~
+  ~~* Mean-Shift Clustering~~
+  ~~* DBSCAN~~
