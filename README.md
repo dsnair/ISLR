@@ -68,7 +68,8 @@ $ pip install -r requirements.txt
 10 Unsupervised Learning:
   * Principal Component Analysis (PCA)
   * K-Means Clustering  
-  ~~* Hierarchical Clustering~~  
-  ~~* Mean-Shift Clustering~~  
+  * Hierarchical Clustering
+  ~~* Gaussian Mixture Models (GMM) Clustering~~
   ~~* Spectral Clustering~~  
+  ~~* Mean-Shift Clustering~~  
   ~~* DBSCAN~~
