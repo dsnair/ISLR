@@ -49,27 +49,33 @@ $ pip install -r requirements.txt
       * Confusion Matrix
       * Sensitivity
       * Precision
-      * F1 score  
+      * F1 score
+  * K-Nearest Neighbors (KNN)   
   ~~* Linear Discriminant Analysis~~   
   ~~* Quadratic Discriminant Analysis~~  
-  * K-Nearest Neighbors (KNN)
 
-5 Resampling Methods:
+5 Resampling Methods:  
   ~~* Validation Set~~  
   ~~* Leave-One-Out Cross-Validation~~  
-  ~~* k-fold Cross-Validation~~
+  ~~* k-fold Cross-Validation~~  
   ~~* Bootstrap~~  
 
 6 Linear Model Selection and Regularization:  
 7 Moving Beyond Linearity:  
-8 Tree-Based Methods:  
+
+8 Tree-Based Methods:
+  * Decision trees  
+  ~~* Bagging~~  
+  ~~* Random Forests~~  
+  ~~* Boosting~~
+
 9 Support Vector Machines:  
 
 10 Unsupervised Learning:
   * Principal Component Analysis (PCA)
   * K-Means Clustering  
-  * Hierarchical Clustering
-  ~~* Gaussian Mixture Models (GMM) Clustering~~
-  ~~* Spectral Clustering~~  
+  * Hierarchical Clustering  
+  ~~* Gaussian Mixture Models (GMM) Clustering~~  
+  ~~* Spectral Clustering~~    
   ~~* Mean-Shift Clustering~~  
   ~~* DBSCAN~~
